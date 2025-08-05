@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
- I'm Amy (Junyeol Ryu; 유준열), a PhD student in CS at University of Wisconsin-Madison advised by <a href="https://netlab.cs.wisc.edu/">Ming Liu</a> and <a href="https://research.cs.wisc.edu/hal/index.html">Matt Sinclair</a>. Before that, I earned MS in CS advised by <a href="https://sites.google.com/view/jaejinlee">Jaejin Lee</a> and BS in CS & BBA, both from Seoul National University. 
+ I'm Amy (Jiwon Ryu; 유지원), a PhD student in CS at University of Wisconsin-Madison advised by <a href="https://netlab.cs.wisc.edu/">Ming Liu</a> and <a href="https://research.cs.wisc.edu/hal/index.html">Matt Sinclair</a>. Before that, I earned MS in CS advised by <a href="https://sites.google.com/view/jaejinlee">Jaejin Lee</a> and BS in CS & BBA, both from Seoul National University. 
 </p>
 
 <p>
