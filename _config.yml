@@ -1,11 +1,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Junyeol Ryu
-description: "Junyeol's Blog"
-url: "https://junyeol.me"
+title: Jiwon Ryu
+description: "Jiwon's Blog"
+url: "https://jiwonamy.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: "gajagajago/gajagajago.github.io"
+repository: "jiwonamy/jiwonamy.github.io"
 photourl: "/assets/img/photos"
 og_image: /assets/img/junyeol.png
 
@@ -13,8 +13,6 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Blog
-    - name: Link
 
 footer:
   show_powered_by: false
@@ -26,10 +24,10 @@ footer:
 #      value: YourWeChatUsername
 #      link: "#"
   follow:
-    - name: Scholar
-      link: https://scholar.google.com/citations?user=dMVmdXsAAAAJ&hl=en
-    - name: GitHub
-      link: http://github.com/gajagajago
+#    - name: Scholar
+#      link: https://scholar.google.com/citations?user=dMVmdXsAAAAJ&hl=en
+#    - name: GitHub
+#      link: http://github.com/gajagajago
 #    - name: Twitter
 #      link: http://twitter.com/YourTwitterUsername
 #      username: "@YourTwitterUsername"
