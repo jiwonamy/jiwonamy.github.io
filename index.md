@@ -11,6 +11,7 @@ profile_picture:
 
 <p>
 I like interdisciplinary research in systems, networking, and computer architecture. My recent interest is in co-designing HW & SW for accelerator-centric systems to efficiently incorporate new architectures, interconnects, and scalable server designs.
+</p>
 
 <p>
  <!-- You can find my full CV
