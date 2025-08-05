@@ -7,7 +7,7 @@ url: "https://jiwonamy.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "jiwonamy/jiwonamy.github.io"
 photourl: "/assets/img/photos"
-og_image: /assets/img/junyeol.png
+og_image: /assets/img/jiwon.png
 
 header:
   pages:
