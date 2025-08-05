@@ -1,0 +1,64 @@
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+title: Junyeol Ryu
+description: "Junyeol's Blog"
+url: "https://junyeol.me"
+baseurl: # the subpath of your site, e.g. "/blog"
+repository: "gajagajago/gajagajago.github.io"
+photourl: "/assets/img/photos"
+og_image: /assets/img/junyeol.png
+
+header:
+  pages:
+    - name: Home
+      slug: /
+    - name: Blog
+    - name: Link
+
+footer:
+  show_powered_by: false
+#  contact:
+#    - name: Email
+#      value: yourmail@domain.com
+#      link: mailto:yourmail@domain.com
+#    - name: WeChat
+#      value: YourWeChatUsername
+#      link: "#"
+  follow:
+    - name: Scholar
+      link: https://scholar.google.com/citations?user=dMVmdXsAAAAJ&hl=en
+    - name: GitHub
+      link: http://github.com/gajagajago
+#    - name: Twitter
+#      link: http://twitter.com/YourTwitterUsername
+#      username: "@YourTwitterUsername"
+#    - name: Facebook
+#      link: http://facebook.com/YourFacebookUsername
+#    - name: Dribbble
+#      link: https://dribbble.com/YourDribbbleUsername
+#    - name: RSS
+#      link: /feed.xml
+
+# Build settings
+markdown: kramdown
+sass:
+    style: :compressed
+plugins:
+  - jekyll-feed
+
+# Excluded items
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - feed.xml
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Used for defeating caching
+version: 1
