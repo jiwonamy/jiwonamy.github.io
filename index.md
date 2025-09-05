@@ -29,7 +29,7 @@ My research inerest lies in demand analysis, market structure analysis, and digi
 
 <h3 id="pubs">Publication</h3>
 <ul>
-  <li><a href="10.1163/15691497-12341657">The Role of Higher Education in Science and Technology in the Development of Technology-Intensive Industries in China: Implications for Developing Countries</a><br>
+  <li><a href="https://brill.com/view/journals/pgdt/22/3-4/article-p171_3.xml">The Role of Higher Education in Science and Technology in the Development of Technology-Intensive Industries in China: Implications for Developing Countries</a><br>
       <i><ins>Jiwon Ryu</ins>, Jai S. Mah</i><br>
       <i>Perspectives on Global Development and Technology 2024</i></li>
 </ul>
