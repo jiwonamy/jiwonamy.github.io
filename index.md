@@ -33,3 +33,8 @@ My research inerest lies in demand analysis, market structure analysis, and digi
       <i><ins>Jiwon Ryu</ins>, Jai S. Mah</i><br>
       <i>Perspectives on Global Development and Technology 2024</i></li>
 </ul>
+
+<h3 id="pubs">Working Papers</h3>
+<ul>
+  <li>Asymmetric Competition in Online Product Search: Insights from Product Ranking and Keyword Volume</a><br>
+</ul>
