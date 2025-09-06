@@ -10,7 +10,7 @@ Hello! I'm Amy (Jiwon Ryu; 유지원), a MS student in Quantitative Marketing at
 </p>
 
 <p>
-My research inerest lies in demand analysis, market structure analysis, and digital marketing. My recent interest is in consumers' online information search behavior.
+My research interest lies in demand analysis, market structure analysis, and digital marketing. My recent interest is in consumers' online information search behavior.
 </p>
 
 <p>
