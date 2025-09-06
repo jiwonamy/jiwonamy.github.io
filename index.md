@@ -27,7 +27,7 @@ My research inerest lies in demand analysis, market structure analysis, and digi
   <li><em><b>TCCL</b></em> accepted to ASPLOS'24.</li>
 </ul> -->
 
-<h3 id="pubs">Publication</h3>
+<h3 id="pubs">Publications</h3>
 <ul>
   <li><a href="https://brill.com/view/journals/pgdt/22/3-4/article-p171_3.xml">The Role of Higher Education in Science and Technology in the Development of Technology-Intensive Industries in China: Implications for Developing Countries</a><br>
       <i><ins>Jiwon Ryu</ins>, Jai S. Mah</i><br>
@@ -35,6 +35,6 @@ My research inerest lies in demand analysis, market structure analysis, and digi
 </ul>
 
 <h3 id="pubs">Working Papers</h3>
-<ul>
-  <li>Asymmetric Competition in Online Product Search: Insights from Product Ranking and Keyword Volume</a><br>
-</ul>
+<li>
+  Asymmetric Competition in Online Product Search: Insights from Product Ranking and Keyword Volume
+</li>
