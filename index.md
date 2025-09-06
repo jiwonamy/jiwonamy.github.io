@@ -35,6 +35,6 @@ My research inerest lies in demand analysis, market structure analysis, and digi
 </ul>
 
 <h3 id="pubs">Working Papers</h3>
-<li>
+  <li>
   Asymmetric Competition in Online Product Search: Insights from Product Ranking and Keyword Volume
-</li>
+  </li>
