@@ -34,9 +34,9 @@ My research interest lies in demand analysis, market structure analysis, and dig
       <i>Perspectives on Global Development and Technology 2024</i></li>
 </ul>
 
-<h3 id="pubs">Working Papers</h3>
+<h3 id="pubs">Work in Progress</h3>
 <ul>
   <li>
-  Asymmetric Competition in Online Product Search: Insights from Product Ranking and Keyword Volume
+  Competition in Online Product Search: Insights from Product Ranking and Keyword Volume
   </li>
 </ul>
