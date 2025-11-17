@@ -37,6 +37,6 @@ My research interest lies in demand analysis, market structure analysis, and dig
 <h3 id="pubs">Work in Progress</h3>
 <ul>
   <li>
-  Competition in Online Product Search: Insights from Product Ranking and Keyword Volume
+  Modeling Performance in Keyword Search Space: Insights from an Online Marketplace
   </li>
 </ul>
