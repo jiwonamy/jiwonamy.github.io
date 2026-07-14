@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-Hello! I'm Amy (Jiwon Ryu; 유지원), a MS student in Quantitative Marketing at Seoul National University advised by Jun Beom Kim. Before that, I earned BBA and BA in International Studies, both from EWHA Womans University. 
+Hello! I'm Jamie (Jiwon Ryu; 유지원), an incoming Ph.D. student  MS student in Quantitative Marketing at University of Maryland. Before that, I finished my MS in Marketing at Seoul National University and I earned BBA and BA in International Studies, both from EWHA Womans University. 
 </p>
 
 <p>
