@@ -18,7 +18,7 @@ My research interest lies in demand analysis, market structure analysis, and dig
  <a href="/assets/pdf/cv.pdf">here</a>.<br>
  -->
  Please contact me through 
- <a href="mailto:jiwonamy@snu.ac.kr">jiwonamy@snu.ac.kr</a>.
+ <a href="mailto:jiwonryu@umd.edu">jiwonamy@snu.ac.kr</a>.
 </p>
 
 
